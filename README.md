@@ -3,7 +3,7 @@
 {{ I'm Ariadna ✨ I'm a Java Backend Developer }}
 
 - 🔭 I’m currently working on: REST API design and development
-- 🌱 I’m currently learning: Machine Learning with Python
+- 🌱 I’m currently learning: Automation testing using Selenium with Java
 - :speaking_head: Languages I speak: English, Spanish, Italian
 - 📫 How to reach me: https://www.linkedin.com/in/ariadna-salomone/
 
