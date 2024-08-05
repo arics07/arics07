@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-{{ I'm Ariadna ✨ I'm a Python and Java Developer }}
+{{ I'm Ariadna ✨ I'm a Python, Java and Node.JS Developer }}
 
 - 🔭 I’m currently learning: Node.JS
 - :speaking_head: Languages I speak: English, Spanish, Italian
