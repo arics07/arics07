@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently learning: Node.JS
 - :speaking_head: Languages I speak: English, Spanish, Italian
-- 📫 How to reach me: https://www.linkedin.com/in/ariadna-salomone/
 
 <!--
 **arics07/arics07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
