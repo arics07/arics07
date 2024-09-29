@@ -1,8 +1,10 @@
 ## Hi there 👋  
-I'm Ariadna ✨ I'm a Python, Java and Node.JS Developer
+I'm Ariadna ✨ I'm a Backend developer focused on Node.js, Python and Java. 
 
-- 🔭 I’m currently learning: Node.JS
+- 🔭 I’m currently working on: developing a Node.js server for a library management API
+- 🌱 I’m currently learning: Frontend with React
 - :speaking_head: Languages I speak: English, Spanish, Italian
+- 📫 How to reach me: Feel free to connect with me on Instagram @ariaufnaxos
 
 <!--
 **arics07/arics07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
