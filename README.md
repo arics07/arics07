@@ -1,28 +1,20 @@
-## Hi there 👋  
-I'm Ariadna ✨ I'm a Backend developer focused on Node.js, Python and Java. 
+<div align="center">
+<h2> Hi there 👋 My name Ariadna </h1>
+<h3>I am a backend developer currently learning frontend development</h2>
+</div>
 
+<div style="display: flex; justify-content: space-around; align-items:center">
+<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 60px height=auto>
+<h2 align="left" font-weight="bold">About me</h2>  
+</div>
+<br>
+
+- 🌍  I'm based in La Plata, Argentina.
 - 🔭 I’m currently working on: developing a Node.js server for an API
 - 🌱 I’m currently learning: Frontend with React
 - :speaking_head: Languages I speak: English, Spanish, Italian
 - 📫 How to reach me: Feel free to connect with me on Instagram @ariaufnaxos
 
-<!--
-**arics07/arics07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-Badges from: https://github.com/Ileriayo/markdown-badges
-
--->
 <br>
 
 ## 🧰 Skills and Tools
@@ -60,10 +52,12 @@ Badges from: https://github.com/Ileriayo/markdown-badges
 
 ## :computer: Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arics07&show_icons=true&theme=tokyonight) 
+<div align="center">
+  
+![arics07's Stats](https://github-readme-stats.vercel.app/api?username=arics07&theme=react&show_icons=true&hide_border=true&count_private=true)
 
-<!--
+![arics07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arics07&theme=react&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arics07&theme=tokyonight) 
+</div>
 
--->
+
