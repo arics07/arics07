@@ -11,7 +11,6 @@
 
 - 🌍  I'm based in La Plata, Argentina.
 - 🔭 I’m currently working on: developing a Node.js server for an API
-- 🌱 I’m currently learning: Frontend with React
 - :speaking_head: Languages I speak: English, Spanish, Italian
 - 📫 How to reach me: Feel free to connect with me on Instagram @ariaufnaxos
 
