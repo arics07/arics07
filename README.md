@@ -1,6 +1,6 @@
 <div align="center">
 <h2> Hi there 👋 My name Ariadna </h1>
-<h3>I am a backend developer currently learning frontend development</h2>
+<h3>I am a backend developer</h2>
 </div>
 
 <div style="display: flex; justify-content: space-around; align-items:center">
