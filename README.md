@@ -10,7 +10,7 @@
 <br>
 
 - 🌍  I'm based in La Plata, Argentina.
-- :speaking_head: Languages I speak: English, Spanish, Italian, and currently learning German
+- :speaking_head: I speak English, Spanish, Italian, and I'm currently learning German
 - 📫 How to reach me: Feel free to connect with me on Instagram @ariaufnaxos
 
 <br>
