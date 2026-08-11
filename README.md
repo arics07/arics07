@@ -1,6 +1,6 @@
 <div align="center">
-<h2> Hi there 👋 My name is Ariadna </h1>
-<h3>I'm a backend developer</h2>
+<h1> Hi there 👋 My name is Ariadna </h1>
+<h3>I'm a ICT Analyst and Backend Developer</h2>
 </div>
 
 <div style="display: flex; justify-content: space-around; align-items:center">
@@ -53,10 +53,6 @@
 <div align="center">
   
 ![arics07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arics07&theme=react&hide_border=true)
-
-![arics07's Stats](https://github-readme-stats.vercel.app/api?username=arics07&show_icons=true&theme=radical)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=arics07&layout=compact&theme=radical)
-
 
 </div>
 
