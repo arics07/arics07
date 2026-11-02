@@ -10,7 +10,7 @@
 
 <br>
 
-- 🌍 Based in La Plata, Argentina.
+- 🌍 I'm based in La Plata, Argentina.
 - 🗣️ I speak English, Spanish, Italian, and I'm currently learning Dutch
 - 📫 Connect with me on Instagram: <a href="https://www.instagram.com/ariaufnaxos"> @ariaufnaxos
 
